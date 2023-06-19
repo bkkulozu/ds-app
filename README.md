@@ -11,7 +11,7 @@ You may also see any lint errors in the console.
 - Welcome to DSET App. This website is designed to provide a simple and efficient solution for automating data annotation. The main goal is to streamline the annotation process for images and videos, making it easier for you to generate annotation XML files. This app made with ReactJS. 
 
 
-![DSET App](src\dsetapp.png "DSET")
+![DSET App](src/dsetapp.png "DSET")
 
 
 
